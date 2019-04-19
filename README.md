@@ -2,6 +2,7 @@
 udacity_ds_capstone
 
 Medium Link-https://medium.com/@ravikishore268/starbucks-capstone-challenge-7de0013df12e
+
 github link- https://github.com/NARAVI/starbucks_capstone
 ## Project Overview
 
