@@ -1,6 +1,8 @@
 # starbucks_capstone
 udacity_ds_capstone
 
+Medium Link-https://medium.com/@ravikishore268/starbucks-capstone-challenge-7de0013df12e
+
 ## Project Overview
 
 The Starbucks project was my capstone project for the Udacity Data Scientist Nanodegree. This data was provided by Starbucks to simulate their customers and transactions to find out  whether a customer will respond to an offer..
